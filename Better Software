@@ -1,0 +1,31 @@
+To achieve a better software.
+IF(<boolean expression>) { <block of statements 1> } ELSE { <block of statements 2> }
+
+
+Var SoftwareProduct=SWP
+Object SQA= [Developers can conduct reviews and tests to try to catch defects earlier and improve quality to avoid defect in released product]
+IF(SWP-4Clients==Right) { SWP is validated } ELSE { learn about understanding users, how to elicit their needs and how to express software requirements.understand client needs }
+IF(SWP-Done==Right) {SWP is verified GOTO->SQA } ELSE {learn about processes to improve software quality.
+ }
+IF(project4product ==managedRight) { <block of statements 1> } ELSE { Learn Agile Practices.}
+verification= sw obeys deisgn ,design satidy specs(formal reqs)
+Validation= specs meets(informal) user requiremnets.
+
+Summary : To achieve better sw  means the right product, done right and managed right should requires practices to ease communication and feedback, to better understand client needs and organize the work of your development team. 
+
+Feb 28, 2024 PRM ROLE 
+
+
+
+Tagline: Agile practices will impact the entire development process. This ultimately creates better software, happier developers, and satisfied clients.
+
+SKILLS : TeamWorking.team leading,customer need understanding.
+TASKS :  managed project efficiently +collaboratively,
+Communicate to client +  dev in their terms.
+Understand Product.
+Knwo value of project from Clint side nad business side.
+Decide projects success metrics
+WORK With : a product leader  works with the product manager in team he bring requirements to leader, and to help hime  understand what our customers need, and then I work to fulfill those requirements with the team. >> So a lot of what I do is to define a vision product strategy, product road map, and also specifications for the developement team, as well as our experienced design team 
+WHAT THEY DO: Software product management professionals will often use schedule, budget, and user requirements as benchmarks for defining success.software product manager needs to take a central role in these activities.: estimation, planning and monitoring.
+UPDTAES: AI usecases
+CONTENT shows understanding : TOPIC=Agile and Project Success. : demonstrate that using Agile practices are better than using a haphazard management approach. How Agile can impact project Sucess. TOPIC=What IS agile?  A updated way to manage the process of producing great software
