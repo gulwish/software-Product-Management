@@ -1,0 +1,186 @@
+AGILE MANIFESTO
+ the manifesto outlines 12 principles that elaborate on the values and give you some more specific guidelines to follow.
+
+3 CATEGORIES
+Delivering working software
+Flexible deign 
+Collaborative communication
+
+Agile Guiding principles and success of project: how? Management approach for producing great software product.
+
+Individuals and interactions over processes and tools.
+Working software over comprehensive documentation.
+Customer collaboration over contract negotiation. 
+Responding to change over following a plan.
+
+
+They are suggesting that the first items are the more important things to focus on.
+
+
+CASE 
+Paula has been managing the development of a new database system for True North Aerospace Systems. Every two weeks, she invites her client to a Friday afternoon meeting where the development team demonstrates the latest product prototype.
+This week's meeting resulted in the client and development team discussing how a new user interface feature would allow users to easily enter information into the database.
+Paula documented the new requirements and made a note to herself to schedule a meeting with the legal team and the client.
+Signing off on a revised contract is required so that the team has a specification of the new feature in writing.
+Check all the ways Paula is in alignment with the values of the Agile Manifesto.
+
+
+A. a new prototype is demonstrated on a regular basis. B. development team has face to face time with the client. C. product evolves as new needs are identified. And/or D. contract is updated to specify the new feature.
+Answer A aligns with the Agile value of delivering working software. Answer B is aligned with the Agile values of customer collaboration and individuals' interactions. Answer C aligns with the Agile value of aligning to change.
+Paula is not in alignment with the Agile value of customer collaboration over contract negotiation. Although she encourages frequent and open communication with her client, a contract needs to be revised in order for the development team to know the agreed specification for a feature.
+
+
+
+
+Important responsibilities of a product manager as a practitioner of agile principles 
+PRINCIPLE: first principle. It states, "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software".
+
+
+RESPONSIBILITY : You need to ask your client what they determine as valuable. The features that your client values the most become the highest priority for your development team.
+
+
+PRINCIPLE : The second principle is about frequency of deliveries. It states, "Deliver working software frequently, from a couple of weeks to a couple of months with a preference to the shorter timescale".
+RESPONSIBILITY : must get approved by CLIENT INPUT on delivery of  working software
+Working software= complete feature. Chahy odumnetaion, test bd mein krna pehly approved krwalo k agr is feature emin bhi koi cahnges ayengi ya nahin. Phir tou changes wali bt mein prha tha k changes tou contract emin likhni hai. 
+
+
+
+
+
+
+4th principle. It is where changing requirements. This will be discussed in more detail in the client needs and software requirements course. It states, welcome changing requirements even late in development. Agile processes harness change for the customer's competitive advantage.
+5TH PRINCIPLE : It states, continuous attention to technical excellence and good design enhances agility.
+Having readable, simple code and more flexible designs will allow changes to be easily implemented.
+
+
+6TH PRINCIPLE t states, agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+RESPONSIBILITY : BURN OUT TEAMS 
+
+
+
+
+7th principle,It states simplicity, the art of maximizing the amount of work not done, is essential. This does not mean that Agile is about delivering less. It means that Agile is about delivering what is essential and reducing unnecessary work. This means writing less code and documentation, and focusing on delivering a high-impact product that is as simple as it can be.
+RESPONSIBILITY : As a product manager you may need to explain why certain features add value.
+
+
+8THeighth principle. It speaks to trust. It states: build projects around motivated individuals. Give them the environment and support that they need, and trust them to get the job done.
+
+
+RESPONSIBILITY : act as more of a facilitator for your team.tell people where to go, but not how to get there, and you'll be amazed by the results.
+
+
+Principle : The 9th principle is about self-organization. It states: the best architectures, requirements, and designs emerge from self-organizing teams. Agile encourages teams to self-organize. This means that as a team they decide how they want to organize the project. This includes things such as assigning tasks and choosing tools to use.
+Responsibility: have the meeting with team to decdie which tasks to assigned to whom and which tools usage are most agreed upon.
+
+
+Principle :  tenth principle is about client-developer communication. It states, business people and developers must work together daily throughout the project.
+Responsibility : as a product manager, you will act as a facilitator, but never as a messenger between the two parties
+
+
+
+
+
+
+PRINCIPLE Our second last principle is about communication. It states, the most efficient and effective method for conveying information to and within a development team is face-to-face conversation.
+
+
+RESPONSIBILITY : Being able to speak directly to a project team member can reduce opportunities for miscommunication and increase the speed at which work happens.
+
+
+PRINCIPLE: the final principle is about reviewing what's been done. It states: at regular intervals, the team reflects on how to become more effective, then tunes and adjusts it's behavior accordingly.
+
+
+RESPONSIBILITY: You need to test your processes, review them, and make improvements. BCZ The important thing is not your process. The important thing is your process for improving your process.
+=======================================
+
+
+
+
+
+Agile Principles Examining
+
+7th principle, which refers to simplicity. It states simplicity, the art of maximizing the amount of work not done, is essential. This does not mean that Agile is about delivering less. It means that Agile is about delivering what is essential and reducing unnecessary work. This means writing less code and documentation, and focusing on delivering a high-impact product that is as simple as it can be.
+Sam is one of the developers on your development team.
+He is obsessed with the agile concept of simplicity.
+The software code he writes is very minimal. It does the work it is supposed to do, but without any unnecessary or complicated code.
+He also doesn't add comments to document his code.
+Sam thinks that the team should only develop the essential features that make the product function, and they shouldn't waste their time on the flashy features that the client believes will add value to the product. But that he deems as useless.
+He refuses to participate in elaborate documentation, but will write notes on how he developed the feature, any keynotes and a brief training document for the end user.
+
+
+Which of his practices, if any, do you think actually follow the concept of simplicity from the Agile Manifesto?
+A, minimal code that satisfies the desired functionality. B, no comments in the code. C, only developing essential features. And/or D, essential documentation over elaborate documentation.
+
+You are working for a global corporation that develops applications for airlines. Your latest project is managing the development of an entertainment app that replaces the television screens on airlines. Your development team is very experienced with development, as well as with Agile. They self-organize the team.
+
+
+What does this self-organizing team actually look like? Check all that apply.
+
+
+A. there is no work for the product manager to do. B. they have agreed upon certain practices to follow. C. they've decided to self-assign as they complete tasks. And/Or D. they have appointed one leader who is in charge of the team.
+
+
+
+
+B and C are great ways that teams can self-organize. And those are the correct answers. Self-organizing teams are supposed to encourage communication, teamwork, efficient development, motivation, and respect.
+Appointing someone as a leader does not put everyone at the same level of respect, and it does not encourage equal responsibility.
+A self-organizing team also does not mean that there is nothing for you to do. 
+You are there to manage and coach them in the practices they have chosen.
+
+
+RESPONSIBILITY: You are there to manage and coach them in the practices they have chosen.
+
+
+
+
+
+
+Methods to Apply Agile principles PRACTICAL WAY.
+have the tools and knowledge to confidently apply these principles to your projects.
+
+
+PROCESS
+REQUIREMENTS
+PLANING
+MONITORING
+
+
+PROCESS: 
+Models for organizing software dev processes with high level phases 
+Requirements :Requirements are a set of specific descriptions of your client's needs+ By spending the time to refine requirements, you can also detect potential errors in your product before it's even built.
+Specification is where the idea for the product is conceived. You will know the specification phase has been achieved when you can define what the software will do.
+ Design & Implementation is figuring out the optimal way to structure the software which allows effective design and
+ coding to begin. 
+Finally, verification & validation is where you test the software for bugs and ensure that the system is delivering what the client needs.
+CASE
+You are the product manager for a project that is developing a new video game.You should assign tasks acccordding to phases. 
+Some of the tasks your team needs to complete are writing tests for selecting a character, planning what the characters look like, writing the source code for multiplayer selection, and executing tests for changing the color of characters.
+Which of these tasks would be in the verification and validation phase?
+A. Writing tests for selecting a character. B. Planning what the characters will look like. C. Writing the source code for multiplayer selection, and/or D. Executing tests for changing the color of characters?
+
+
+
+
+A,D both help to assess whether the product works the way it's intended to. Therefore answers A and D are part of the verification and validation phase.
+
+
+REQUIREMENTS
+
+
+CASE: This unfortunate design error is a result of a poorly defined requirement.
+As a PM : work with client  to  elicit and express requirements.
+
+
+example of a list of requirements for a great social network app. The user could: store user profiles on their data,view other user's profiles,create status updates,and view other user's status updates.
+
+
+By clarifying ideas, development becomes focused and efficient. Here's an example. One of your developers has begun developing the social network app and has come across this requirement. Users must be able to send messages as a guest. The developer might take this requirement and design a system in which users have the ability to either log in to their own account or use a guest account. A single guest account fulfills the requirement, but will there by unintended consequences when many different users have access to one guest account? As a result of the developer's understanding of the requirement, this guest account became one big account in which anyone could message anyone else and see the conversation. This unfortunate design error is a result of a poorly defined requirement.
+
+
+PLANNING : 
+Planning is bringing the future into the present so you can do something about it now." A plan highlights what can be done now. It moves you towards a future goal.
+Planning involves using processes and requirements to start organizing tasks and schedules. Creating tasks and schedules requires identifying who should do the work, and estimating how long that work will take.
+
+
+Post
+Have Agile principles benefited you in one of your experiences? Have you been a part of a project that could have used Agile? Share your experiences in the course discussion. experience development with and without the use of Agile practices.
